@@ -21,10 +21,8 @@ GroupId为trs.com.cn，artifactId为mwkang，version为1.0-SNAPSHOT
 **5.重新启动main方法**
 本地访问[http://localhost:8080/hello/season](http://localhost:8080/hello/season)，即可看见效果
 
-![启动main方法.png](http://upload-images.jianshu.io/upload_images/208018-215276b7be505510.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![启动main方法.png](http://upload-images.jianshu.io/upload_images/208018-fd6e0614427a9ff0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+![启动main方法成功.png](http://upload-images.jianshu.io/upload_images/208018-05695ce02f8b7dda.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![启动main方法成功.png](http://upload-images.jianshu.io/upload_images/208018-a7aea5160555c08a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-![访问httplocalhost8080helloseason显示效果.png](http://upload-images.jianshu.io/upload_images/208018-fc24fed8e29cb581.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![访问httplocalhost8080helloseason显示效果.png](http://upload-images.jianshu.io/upload_images/208018-57373fd5867240a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
