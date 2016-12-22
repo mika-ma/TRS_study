@@ -2,6 +2,7 @@
 
 >以“发表评论”为例，season后台大致数据流动过程理解为：前端通过Ajax将评论comment的数据提交到Controller控制层，在控制层通过注解查找saveComment方法，方法中将评论对象实例化一个评论vo，依次通过工厂类ServiceFactory、服务层CommentService、工厂类DaoFactory到数据层CommentDao，通过save方法实现数据持久化。
 
+[完整项目请见](https://github.com/mwkang000/comment)
 
 **1.IDEA中新建项目，并配置数据库**
 
