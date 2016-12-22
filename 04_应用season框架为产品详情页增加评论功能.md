@@ -14,7 +14,11 @@
 
 ![录入数据库名等信息.png](http://upload-images.jianshu.io/upload_images/208018-52999396439970b8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![连接数据库建表.png](http://upload-images.jianshu.io/upload_images/208018-a818eb5fc89b998d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![连接数据库建表.png](http://upload-images.jianshu.io/upload_images/208018-c1f56a559001383b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 项目结构
+
+![工程结构.png](http://upload-images.jianshu.io/upload_images/208018-eb08cdff8a802ce1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **3.season后台：创建启动类**
 ```
