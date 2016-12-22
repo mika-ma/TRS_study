@@ -84,10 +84,12 @@ git push -u origin master
 **1.配置java环境变量**
 maven的运行需要java运行环境，所以需要确保已安装JDK，并将 “JAVA_HOME” 变量加入到 Windows 环境变量。
 
-![配置java本地环境变量.png](http://upload-images.jianshu.io/upload_images/208018-407d8dabe2e860fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![配置java本地环境变量.png](http://upload-images.jianshu.io/upload_images/208018-356d876ae754cfb9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-![配置path路径.png](http://upload-images.jianshu.io/upload_images/208018-e85e35de056ded0c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![配置path路径.png](http://upload-images.jianshu.io/upload_images/208018-0e62eb3e0b80a275.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 运行如下代码查看java版本，若如图所示，则java已在本地配置好
 >java -version
@@ -101,7 +103,9 @@ maven的运行需要java运行环境，所以需要确保已安装JDK，并将 �
 
 **3.配置maven环境变量**
 
-![配置maven本地环境变量.png](http://upload-images.jianshu.io/upload_images/208018-c1d56a3609587020.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![配置maven本地环境变量.png](http://upload-images.jianshu.io/upload_images/208018-b2c08ef42730b809.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 运行如下代码查看maven版本，若如图所示，则maven在本地配置好
 >mvn -v
@@ -113,13 +117,20 @@ maven的运行需要java运行环境，所以需要确保已安装JDK，并将 �
 **4.安装并在IDEA中配置Maven**
 安装IDEA，并在其中修改maven home路径，其下两个路径为maven本地仓库设置和路径，默认即可。
 
-![配置Maven.png](http://upload-images.jianshu.io/upload_images/208018-cfa24bbdef431786.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![配置maven在idea中安装.png](http://upload-images.jianshu.io/upload_images/208018-b256d88cb23b2f0c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![配置Maven.png](http://upload-images.jianshu.io/upload_images/208018-a5e40219d4d703f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+![配置maven在idea中安装.png](http://upload-images.jianshu.io/upload_images/208018-3dfe1fd2da9fcfd5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 **5.新建Maven项目并提交到GitHub**
 （新建项目过程在文档02中展开）
-![新建Maven项目并上传GitHub.png](http://upload-images.jianshu.io/upload_images/208018-6c876ed715bf51a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![新建Maven项目并上传GitHub.png](http://upload-images.jianshu.io/upload_images/208018-3c20c2a338a8dabb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ![提交到GitHub.png](http://upload-images.jianshu.io/upload_images/208018-9149eddd3497d568.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -143,7 +154,9 @@ git push origin test-pr
 - 初始化，系统会在本地代码库会自动创建一个.git隐藏文件，这个就是本地代码库
 ```git init```
 
-![初始化.png](http://upload-images.jianshu.io/upload_images/208018-2f32b2ee9bbe5701.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![初始化.png](http://upload-images.jianshu.io/upload_images/208018-f56ccab3d3d74745.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 ![初始化后新建的本地代码库.png](http://upload-images.jianshu.io/upload_images/208018-81c9de787539e6c7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
