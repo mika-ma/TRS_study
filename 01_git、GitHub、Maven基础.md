@@ -53,7 +53,9 @@ $ pwd
 
 
 通过git init命令把这个目录变成Git可以管理的仓库
-```$ git init```
+```
+$ git init
+```
 
 在github上创建一个你自己的new repository
 ```
@@ -85,7 +87,7 @@ git push -u origin master
 maven的运行需要java运行环境，所以需要确保已安装JDK，并将 “JAVA_HOME” 变量加入到 Windows 环境变量。
 
 
-![配置java本地环境变量.png](http://upload-images.jianshu.io/upload_images/208018-356d876ae754cfb9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![配置java本地环境变量.png](http://upload-images.jianshu.io/upload_images/208018-973aa0d7ea96fdff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ![配置path路径.png](http://upload-images.jianshu.io/upload_images/208018-0e62eb3e0b80a275.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
