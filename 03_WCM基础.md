@@ -123,6 +123,7 @@
 
 
 增量发布站点后，预览首页如下：
+
 ![预览站点首页.png](http://upload-images.jianshu.io/upload_images/208018-d7623aef27769cbd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 product栏目下两个文档：
