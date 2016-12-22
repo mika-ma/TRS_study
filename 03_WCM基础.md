@@ -43,20 +43,30 @@
 
 **2.登陆进入平台**
 
-![登陆wcm.png](http://upload-images.jianshu.io/upload_images/208018-e8a92ded1a7d9b9f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![登陆wcm.png](http://upload-images.jianshu.io/upload_images/208018-b0e2c56ed0d7e85a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 **3.新建站点**
 站点实际上就是我们访问网络的一个页面，我们可以在这个页面进行各种不同的操作。站点信息设置如图所示，站点HTTP就是就是访问我们建立网站的地址。
-![创建新站点.png](http://upload-images.jianshu.io/upload_images/208018-5df764a6ac249cb1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![创建新站点.png](http://upload-images.jianshu.io/upload_images/208018-3d227665a4dd894a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 **4.创建栏目**
 栏目是一个网站上的分支，它依附于站点而存在，如购物网站里的各种商品的分类。
-![新建栏目.png](http://upload-images.jianshu.io/upload_images/208018-017faebaf910cab0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![新建栏目.png](http://upload-images.jianshu.io/upload_images/208018-6e87378a412d4870.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 **5.创建文档**
 文档相当于新闻网站中的一条新闻消息，包括标题和内容等。在栏目product下创建文档，保存并发布。
 
-![创建文档.png](http://upload-images.jianshu.io/upload_images/208018-148fdc2ab4fbd688.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![创建文档.png](http://upload-images.jianshu.io/upload_images/208018-b2508b512acbd21b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 **6.创建模板**
 使用各类TRS置标添加“栏目列表”选项创建栏目列表模板，并添加头部
@@ -64,11 +74,17 @@
 ![创建栏目列表模板.png](http://upload-images.jianshu.io/upload_images/208018-5ab871999e3526c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 使用TRS置标添加“文档列表”选项创建栏目列表模板
-![创建文档列表模板.png](http://upload-images.jianshu.io/upload_images/208018-8ecb676a05cebe70.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![创建文档列表模板.png](http://upload-images.jianshu.io/upload_images/208018-258c4106904149a1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 使用TRS置标添加“文档信息”选项创建栏目列表模板
-![创建文档信息模板.png](http://upload-images.jianshu.io/upload_images/208018-9df64a93ee855afe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![创建文档信息模板.png](http://upload-images.jianshu.io/upload_images/208018-46dcd833491f7ee2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 
@@ -76,23 +92,35 @@
 **7.设置关联站点模板**
 将模板加入站点的首页模板中
 
-![设置站点首页模板.png](http://upload-images.jianshu.io/upload_images/208018-5435d854d5f50066.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![设置站点首页模板.png](http://upload-images.jianshu.io/upload_images/208018-b47b885e61511d8b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 设置栏目概览模板和细览模板
 
-![设置栏目模板.png](http://upload-images.jianshu.io/upload_images/208018-bc6e95cb3ca73f6c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![设置栏目模板.png](http://upload-images.jianshu.io/upload_images/208018-01a742080b9f0916.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 **8.新增几项栏目和文档并预览站点**
 
 栏目预览：
-![栏目.png](http://upload-images.jianshu.io/upload_images/208018-12fa5318398109c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![栏目.png](http://upload-images.jianshu.io/upload_images/208018-fba692dc1964f8e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 文档预览：
-![文档.png](http://upload-images.jianshu.io/upload_images/208018-2b121e63ef19de24.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![文档.png](http://upload-images.jianshu.io/upload_images/208018-c6726d4eb7f48f62.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 模板预览：
-![模板.png](http://upload-images.jianshu.io/upload_images/208018-3274d7778187c533.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![模板.png](http://upload-images.jianshu.io/upload_images/208018-8f65afd87c291103.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 增量发布站点后，预览首页如下：
 ![预览站点首页.png](http://upload-images.jianshu.io/upload_images/208018-d7623aef27769cbd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -105,18 +133,27 @@ product栏目下两个文档：
 
 ###三、创建一个简单商品详情页
 **1.新建站点product作为商城首页，站点下创建2个栏目分别为“冰箱”和“电视”作为简单商城商品分类，首页设置首页概览模板**
-![栏目预览.png](http://upload-images.jianshu.io/upload_images/208018-6a253520f4a4773f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![栏目预览.png](http://upload-images.jianshu.io/upload_images/208018-55d9536909bbe4a1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 **2.冰箱分类下有两个商品“冰箱一”和“冰箱二”，“冰箱一”编辑简单商品详情如下**
 
-![文档预览.png](http://upload-images.jianshu.io/upload_images/208018-8ca64be2a553a65e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![文档预览.png](http://upload-images.jianshu.io/upload_images/208018-2b343937671ecb54.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-![文档细览.png](http://upload-images.jianshu.io/upload_images/208018-1abb1cc74ab83f8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![文档细览.png](http://upload-images.jianshu.io/upload_images/208018-70df73937f06fa9d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 **3.创建三个模板“首页概览”“栏目概览”“栏目细览”分别作为命名对应的页面模板，模板代码如下**
 
-![04模板预览.png](http://upload-images.jianshu.io/upload_images/208018-c5e4a33a1a8f4dfd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![模板预览.png](http://upload-images.jianshu.io/upload_images/208018-d35e3e93b92bc986.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 - 首页概览代码内容：
 
@@ -221,4 +258,5 @@ product栏目下两个文档：
 
 - “冰箱一”商品详情
 
-![商品详情.png](http://upload-images.jianshu.io/upload_images/208018-e1eb14122da6c71f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![商品详情.png](http://upload-images.jianshu.io/upload_images/208018-87805f8aea6c912f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
