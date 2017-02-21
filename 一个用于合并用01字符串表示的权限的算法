@@ -1,0 +1,40 @@
+/**
+ * Created by mwkang on 2017/2/21.
+ */
+public class mergeRightValue {
+
+    public static void main(String[] args) {
+        mergeRightValue("1000", "1100", "0001", "0", "00000011");
+    }
+
+    /**
+     * 合并权限
+     *
+     * @param rightValues 不定传入权限个数的二进制字符串
+     * @return 合并后的权限
+     */
+    public static char[] mergeRightValue(String... rightValues) {
+        //设置一个初始八位0的字符串，代表权限均为无
+        String zero = "00000000";
+        char[] result = zero.toCharArray();
+
+        //遍历传入的权限
+        for (int i = 0; i < rightValues.length; i++) {
+            String str = rightValues[i];
+            char[] ch = rightValues[i].toCharArray();
+
+            //从第0位开始 遍历当前权限的哪几位有权限，有权限即写入默认权限
+            for (int j = 0; j < str.length(); j++) {
+                if (ch[j] == '1') {
+                    result[j] = ch[j];
+                }
+            }
+        }
+
+        //所有权限合并 并写入初始权限中返回
+        System.out.println(result);
+        return result;
+
+    }
+
+}
