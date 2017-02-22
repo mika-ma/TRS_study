@@ -4,7 +4,7 @@
 public class mergeRightValue {
 
     public static void main(String[] args) {
-		//测试项
+	//测试项
         mergeRightValue("1000", "1100", "0001", "0", "00000011");
     }
 
@@ -35,7 +35,6 @@ public class mergeRightValue {
         //所有权限合并 并写入初始权限中返回
         System.out.println(result);
         return result;
-
     }
 
 }
